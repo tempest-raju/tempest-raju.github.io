@@ -21,6 +21,3 @@ CSS
 
 JavaScript
 
-🔹 Live Demo
-
-🌐 https://tempest-raju.github.io
